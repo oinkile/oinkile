@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oinkile
-- 👀 I’m interested in Minecraft Hack CLients, Minecraft server plugins
+- 👀 stuff
 - 🌱 I’m currently learning to code 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: i like carrots
